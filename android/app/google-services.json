@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513994296007",
+    "project_id": "flutter--july",
+    "storage_bucket": "flutter--july.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513994296007:android:d70f060fa6d5ae4fc3cce2",
+        "android_client_info": {
+          "package_name": "com.new.neethu.flutter_july"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB0SlqjwwGYdmkGUzNrqkKhufQazQeFiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
